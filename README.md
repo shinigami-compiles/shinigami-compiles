@@ -70,9 +70,9 @@ me = Harshal_Jadhav()
   <br /><br />
   
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinigami-compiles&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving](https://tenor.com/view/death-note-light-kira-anime-gif-22100000)&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
 </div>
