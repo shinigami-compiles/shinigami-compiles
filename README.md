@@ -1,73 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e0e0e0,ffffff,e0e0e0&height=200&section=header&text=HARSHAL.JADHAV&fontSize=50&fontColor=000000&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=00ff9d&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=ARTIFICIAL_INTELLIGENCE_ENGINEER;DEEP_LEARNING_ARCHITECT;DATA_SCIENCE_SPECIALIST;SYSTEM_STATUS:_LIQUID." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Initializing+AI+%26+DS+Engineer...;Loading+Neural+Networks...;Executing+Deep+Learning+Protocols...;Welcome,+User." alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://i.pinimg.com/originals/2a/30/80/2a3080c576594c772be4cb661c92a6c8.gif" width="100%" height="200" style="object-fit: cover; border-top: 3px solid #000; border-bottom: 3px solid #000;" alt="Liquid Chrome" />
-  <br />
 </div>
 
 <br />
 
 <div align="center">
-<h3 style="font-family: monospace; letter-spacing: 8px; color: #000;">
-  [ ARSENAL_LOADOUT ]
+<pre align="left">
+<code class="language-python">
+class Harshal_Jadhav:
+    def __init__(self):
+        self.name = "Harshal Jadhav"
+        self.role = "AI & DS Engineer"
+        self.focus = ["Machine Learning", "Deep Learning", "Predictive Modeling"]
+        self.drive = "Infinite"
+
+    def current_status(self):
+        while self.drive:
+            self.learn("SOTA Algorithms")
+            self.build("Scalable AI Systems")
+            self.optimize("Neural Architectures")
+
+# Executing core modules...
+me = Harshal_Jadhav()
+</code>
+</pre>
+</div>
+
+<h3 align="center">
+    <samp>&gt; Accessing_Tech_Stack...</samp>
 </h3>
-</div>
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
   
-  <img src="https://img.shields.io/badge/C++_CORE-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/PYTHON_V3-FFFFFF?style=for-the-badge&logo=python&logoColor=black&labelColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/SQL_DATA-000000?style=for-the-badge&logo=postgresql&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <br/>
 
-  <img src="https://img.shields.io/badge/TENSORFLOW-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/PYTORCH-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/KERAS-FFFFFF?style=for-the-badge&logo=keras&logoColor=black&labelColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <br/>
-
-  <img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/SEABORN-000000?style=for-the-badge&logo=python&logoColor=white&color=000000" />
-
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-<table style="border: 2px solid #000000; background-color: #f2f2f2; width: 80%; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border-bottom: 2px solid #000000; padding: 10px;">
-      <samp style="font-size: 20px; font-weight: bold;">CURRENT_OBJECTIVE</samp>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; font-family: monospace; color: #333;">
-      <b>&gt; TARGET:</b> Data Structure Optimization<br/>
-      <b>&gt; METHOD:</b> Unsupervised Learning<br/>
-      <b>&gt; STATUS:</b> <span style="background-color: #000; color: #fff; padding: 2px 5px;">COMPILING...</span>
-    </td>
-  </tr>
-</table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" height="150" alt="Stats" />
+  <br />
+  <samp>&gt; Fetching_Github_Metrics...</samp>
+  <br /><br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Top Langs" />
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,e0e0e0,000000&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
 </div>
