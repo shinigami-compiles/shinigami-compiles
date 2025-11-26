@@ -1,111 +1,78 @@
-<!-- ========================================= -->
-<!-- 🌌 H A R S H A L   J A D H A V — PROFILE  -->
-<!-- ========================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=00ff9d&animation=fadeIn&fontAlign=50" width="100%" />
+</div>
 
-<h1 align="center" style="color:#9e4bff; font-weight:900; font-size:42px;">
-✨ H A R S H A L &nbsp; J A D H A V ✨
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Initializing+AI+%26+DS+Engineer...;Loading+Neural+Networks...;Executing+Deep+Learning+Protocols...;Welcome,+User." alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="center" style="color:#00eaff; font-weight:600;">
-AI & DS Engineer • ML & DL Practitioner • Code Alchemist
+<br />
+
+<div align="center">
+<pre align="left">
+<code class="language-python">
+class Harshal_Jadhav:
+    def __init__(self):
+        self.name = "Harshal Jadhav"
+        self.role = "AI & DS Engineer"
+        self.focus = ["Machine Learning", "Deep Learning", "Predictive Modeling"]
+        self.drive = "Infinite"
+
+    def current_status(self):
+        while self.drive:
+            self.learn("SOTA Algorithms")
+            self.build("Scalable AI Systems")
+            self.optimize("Neural Architectures")
+
+# Executing core modules...
+me = Harshal_Jadhav()
+</code>
+</pre>
+</div>
+
+<h3 align="center">
+    <samp>&gt; Accessing_Tech_Stack...</samp>
 </h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/o7kB3Kj.gif" width="480">
-</p>
+<div align="center">
 
----
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br/>
 
-## <span style="color:#ff6bcb; font-size:26px; font-weight:700;">🔱 01 — DIGITAL DNA</span>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-```python
-Harshal_Jadhav = {
-    "Role": "AI & DS Engineer",
-    "Domains": ["Machine Learning", "Deep Learning"],
-    "Craft": "Turning data into intelligent systems",
-}
-```
+<br/>
 
-<span style="color:#00ff95; font-size:26px; font-weight:700;">🛠️ 02 — TOOLCHEST OF AN ENGINEER</span>
-<span style="color:#ffd500;">Languages</span>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
+</div>
 
-🧩 C++
+<div align="center">
+  <br />
+  <samp>&gt; Fetching_Github_Metrics...</samp>
+  <br /><br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="150" alt="Harshal's Top Langs" />
+</div>
 
-🧩 C
-
-🧩 Python
-
-🧩 HTML
-
-🧩 CSS
-
-🧩 SQL
-
-<span style="color:#ff007b;">Frameworks & Libraries</span>
-
-TensorFlow • PyTorch • Keras
-
-Flask
-
-Pandas • NumPy • Seaborn
-
-<span style="color:#55f0ff;">Engineering Style</span>
-
-Clean Code
-
-Research-Oriented
-
-Performance Driven
-
-Experiment Focused
-
-<p align="center"> <img src="https://i.imgur.com/5NZQX0F.gif" width="440"> </p>
-<span style="color:#ffa44e; font-size:26px; font-weight:700;">🚀 03 — CURRENT EXPEDITION</span>
-
-Training, fine-tuning & evaluating ML/DL models
-
-Building real-world AI systems with Flask
-
-Feature engineering & data pipelines
-
-Architecture & metric experimentation
-
-<span style="color:#8aff4e; font-size:26px; font-weight:700;">🧠 04 — THE CRAFT I HONOR</span>
-```
-if Data != "Clean": 
-    clean(Data)
-
-if Model != "Learning":
-    tune(Parameters)
-
-if Accuracy < Target:
-    engineer(Features)
-
-save(Weights)
-push(Code)
-repeat()
-```
-
-<span style="color:#00eaff; font-size:26px; font-weight:700;">⚡ 05 — PROJECT PHILOSOPHY</span>
-
-💠 1% better every commit
-
-💠 Build models that matter
-
-💠 Math as a weapon
-
-💠 Code like poetry
-
-💠 Think like a scientist
-
-💠 Build like an engineer
-
-<span style="color:#ff6eee; font-size:26px; font-weight:700;">🌍 06 — CONNECT WITH ME</span>
-
-📫 Email: your-email
-🔗 LinkedIn: your-link
-🖥️ Portfolio: your-site
-
-(Send links — I will insert them cleanly.)
-
-<h3 align="center" style="color:#00ffcc;"><i>“Code isn’t written — it’s carved.”</i></h3> <p align="center"> <strong style="color:#ff4ef4;">⭐ If you like my work, consider starring — it fuels the machine ⭐</strong> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
+</div>
