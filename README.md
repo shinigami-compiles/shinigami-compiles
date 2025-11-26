@@ -71,7 +71,7 @@ me = Harshal_Jadhav()
 
   <img src="death-note-light.gif" height="180" alt="Left Side GIF" style="margin-right: 15px; border-radius: 10px;" />
 
-  <img src="https://i.pinimg.com/736x/d4/b1/c3/d4b1c37922e1e03499170a9804b8ddae.jpg" height="180" alt="Right Side Image" style="margin-left: 15px; border-radius: 10px;" />
+  <img src="death_note_paper.jpg" height="180" alt="Right Side Image" style="margin-left: 15px; border-radius: 10px;" />
 </div>
 
 <div align="center">
