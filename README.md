@@ -22,7 +22,7 @@ class Harshal_Jadhav:
 
     def current_status(self):
         while self.drive:
-            self.learn("SOTA Algorithms")
+            self.learn("Data Strutures & Algorithm")
             self.build("Scalable AI Systems")
             self.optimize("Neural Architectures")
 
