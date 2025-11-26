@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682B4,100:ffffff&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=4682B4&animation=fadeIn&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682B4,100:ffffff&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=295D8A&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
 <div align="center">
