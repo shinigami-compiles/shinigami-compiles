@@ -1,63 +1,39 @@
-<div align="center" style="background-color:#0a0a0a; border: 2px solid #00ff99; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=SYSTEM_BREACH_DETECTED...;IDENTITY_CONFIRMED:_HARSHAL_JADHAV;INITIALIZING_AI_CORE_V.2.77..." alt="Cyberpunk Typing">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=40&pause=1000&color=E0CCFF&center=true&vCenter=true&width=800&lines=SIGNAL_DETECTED_FROM_THE_VOID...;HARSHAL_JADHAV_IS_ONLINE.;ARCHITECT_OF_NEURAL_NETWORKS." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://i.pinimg.com/originals/f3/7c/4d/f37c4d37eb644917df87b74415c8294a.gif" width="600" style="border-radius: 100%; box-shadow: 0px 0px 50px #7b2cbf;" alt="Quantum Singularity">
   <br/><br/>
-  <img src="https://media.giphy.com/media/LpALgISqqTZm3OpOEZ/giphy.gif" width="600" height="200" style="border: 1px solid #ff0055; opacity: 0.9;">
-  <br/><br/>
-  <samp style="color: #ff0055;">[WARNING]: NEURAL LINK ESTABLISHED. UNFILTERED DATA STREAM AHEAD.</samp>
+  <img src="https://img.shields.io/badge/CURRENT_STATUS-TRANSCENDING_DATA-2a0a45?style=for-the-badge&labelColor=101010&color=7b2cbf" />
 </div>
 
 <br/>
 
-<table align="center" border="0" bgcolor="#000000" style="border-spacing: 0px; width: 90%; border: 1px solid #ff0055;">
-  <tr>
-    <td style="padding: 20px;">
-      <pre style="font-family: 'Courier New', monospace; color: #00ff99; background-color: #121212; border: none;">
-<span style="color:#ff0055;">> run whoami.exe</span>
-<span style="color:#555555;">Processing...</span>
-
-<span style="color:#00ff99;">USER_ID:</span>    Harshal Jadhav
-<span style="color:#00ff99;">CLASS:</span>      Cyber-Engineer // AI & DS Specialist
-<span style="color:#00ff99;">FOCUS:</span>      Injecting intelligence into silicon.
-            Machine Learning / Deep Learning protocols.
-<span style="color:#00ff99;">MISSION:</span>    Building scalable neural architectures in the data-verse.
-
-<span style="color:#ff0055;">> status --current</span>
-<span style="color:#00ff99;">[✓]</span> Compiling SOTA Algorithms...
-<span style="color:#00ff99;">[✓]</span> Optimizing Tensor Flow...
-<span style="color:#00ff99;">[✓]</span> Caffiene Level: CRITICAL
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="center" style="color: #00ff99; font-family: monospace;">
-  // ACCESSING CYBERDECK MODULES...
-</h3>
-
 <div align="center">
-<table style="border-spacing: 10px; background-color: #0a0a0a;">
+<table style="border: 1px solid #3c1361; background-color: #0d0217; border-radius: 15px; box-shadow: 0px 0px 20px #240046;">
   <tr>
-    <td align="center" style="border: 1px solid #00ff99; padding: 10px;">
-        <img src="https://img.shields.io/badge/C++-00ff99?style=flat-square&logo=c%2B%2B&logoColor=black" height="25"/><br/>
-        <img src="https://img.shields.io/badge/Python-ff0055?style=flat-square&logo=python&logoColor=white" height="25"/><br/>
-        <samp style="color: #00ff99; font-size: 10px;">LANGUAGES</samp>
-    </td>
-     <td align="center" style="border: 1px solid #ff0055; padding: 10px;">
-        <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00ff99" height="25"/><br/>
-        <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=ff0055" height="25"/><br/>
-        <samp style="color: #ff0055; font-size: 10px;">AI_CORE</samp>
-    </td>
-    <td align="center" style="border: 1px solid #00ff99; padding: 10px;">
-        <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=white" height="25"/><br/>
-        <img src="https://img.shields.io/badge/Numpy-0a0a0a?style=flat-square&logo=numpy&logoColor=white" height="25"/><br/>
-        <samp style="color: #00ff99; font-size: 10px;">DATA_CRUNCH</samp>
-    </td>
-    <td align="center" style="border: 1px solid #ff0055; padding: 10px;">
-        <img src="https://img.shields.io/badge/Flask-00ff99?style=flat-square&logo=flask&logoColor=black" height="25"/><br/>
-        <img src="https://img.shields.io/badge/SQL-ff0055?style=flat-square&logo=postgresql&logoColor=white" height="25"/><br/>
-        <samp style="color: #ff0055; font-size: 10px;">BACKEND_OPS</samp>
+    <td style="padding: 30px;">
+<pre>
+<code class="language-python" style="background-color: #0d0217;">
+@dataclass
+class Singularity:
+    entity: str = "Harshal Jadhav"
+    origin: str = "Nashik, Earth"
+    tech_soul: list = [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Data Science"
+    ]
+
+    def evolve(self):
+        return "Converting Caffeine into Code..."
+
+# Initiating Protocol...
+print(Singularity.evolve())
+</code>
+</pre>
     </td>
   </tr>
 </table>
@@ -65,29 +41,36 @@
 
 <br/>
 
-<div align="center" style="border-top: 2px dashed #ff0055; border-bottom: 2px dashed #00ff99; padding: 20px 0;">
-  <samp style="color: #00ff99;">> VISUALIZING_NEURAL_PATHWAYS.gif</samp><br/><br/>
-  <img src="https://i.pinimg.com/originals/e6/d5/3f/e6d53f01b8bc249ecab38a39b93073bc.gif" width="500" alt="Cyberpunk Neural Net">
+<h3 align="center" style="letter-spacing: 5px; color: #e0ccff;">
+  ░▒▓ ACCESSING_ARSENAL ▓▒░
+</h3>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/C++-EXECUTABLE-101010?style=for-the-badge&logo=c%2B%2B&logoColor=9d4edd&labelColor=101010" />
+  <img src="https://img.shields.io/badge/PYTHON-SCRIPT-101010?style=for-the-badge&logo=python&logoColor=9d4edd&labelColor=101010" />
+  <img src="https://img.shields.io/badge/SQL-DATABASE-101010?style=for-the-badge&logo=postgresql&logoColor=9d4edd&labelColor=101010" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/TENSORFLOW-NEURAL-101010?style=for-the-badge&logo=tensorflow&logoColor=e0aaff&labelColor=240046" />
+  <img src="https://img.shields.io/badge/PYTORCH-TENSOR-101010?style=for-the-badge&logo=pytorch&logoColor=e0aaff&labelColor=240046" />
+  <img src="https://img.shields.io/badge/KERAS-INTERFACE-101010?style=for-the-badge&logo=keras&logoColor=e0aaff&labelColor=240046" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/PANDAS-ANALYTICS-101010?style=for-the-badge&logo=pandas&logoColor=9d4edd&labelColor=101010" />
+  <img src="https://img.shields.io/badge/NUMPY-CALC-101010?style=for-the-badge&logo=numpy&logoColor=9d4edd&labelColor=101010" />
+  <img src="https://img.shields.io/badge/FLASK-SERVER-101010?style=for-the-badge&logo=flask&logoColor=9d4edd&labelColor=101010" />
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://i.pinimg.com/originals/1c/15/2e/1c152eb91b359d99786a5960098df24b.gif" width="100%" height="80" style="object-fit: cover; border-top: 1px solid #7b2cbf; border-bottom: 1px solid #7b2cbf;" alt="Warp Speed">
 </div>
 
 <br/>
-<h3 align="center" style="color: #ff0055; font-family: monospace;">
-  // SYSTEM_OUTPUT_LOG
-</h3>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0a0a0a&hide_border=false&title_color=00ff99&icon_color=ff0055&text_color=ffffff" alt="Harshal's Stats" height="150" style="border: 1px solid #00ff99;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0a0a0a&hide_border=false&title_color=ff0055&icon_color=00ff99&text_color=ffffff" alt="Harshal's Languages" height="150" style="border: 1px solid #ff0055;"/>
-</a>
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <samp style="color: #555555; font-size: 10px;">
-    --------------------------------------------------<br/>
-    CONNECTION TERMINATED. STAY QUIET. STAY ALIVE.<br/>
-    END OF LINE.<br/>
-    --------------------------------------------------
-  </samp>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d0217&hide_border=true&title_color=e0ccff&icon_color=9d4edd&text_color=9d4edd" height="150" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d0217&hide_border=true&title_color=e0ccff&text_color=9d4edd" height="150" alt="Langs" />
 </div>
