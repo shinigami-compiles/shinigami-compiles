@@ -69,7 +69,7 @@ me = Harshal_Jadhav()
   <samp>&gt; Accessing_Visual_Data_Logs...</samp>
   <br /><br />
 
-  <img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJkamVpamt4ZDR5YXF2M2V5NG55ZnB5eXJweDcza3F2Y2V2bnZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aaVNu2XYgkfrs9s96D/giphy.gif](https://tenor.com/view/death-note-light-kira-anime-gif-22100000)](https://github.com/shinigami-compiles/shinigami-compiles/blob/4df21460ea0b567409ee61e7defce89f6b50bd25/death-note-light.gif)" height="180" alt="Left Side GIF" style="margin-right: 15px; border-radius: 10px;" />
+  <img src="death-note-light.gif" height="180" alt="Left Side GIF" style="margin-right: 15px; border-radius: 10px;" />
 
   <img src="https://i.pinimg.com/736x/d4/b1/c3/d4b1c37922e1e03499170a9804b8ddae.jpg" height="180" alt="Right Side Image" style="margin-left: 15px; border-radius: 10px;" />
 </div>
