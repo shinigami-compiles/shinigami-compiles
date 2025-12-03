@@ -60,6 +60,33 @@ me = Harshal_Jadhav()
 
 <br/>
 
+<h3 align="center">
+  <samp>&gt; Deploying_Project_Modules...</samp>
+</h3>
+
+<p align="center">
+  <table>
+    <tr>
+      <!-- Project 1 -->
+      <td align="center">
+        <!-- Make this image file itself circular -->
+        <img src="introfy.jpg" alt="Project 1" width="160" height="160" />
+        <br />
+        <samp>Project_Module_01</samp>
+      </td>
+
+  <!-- Project 2 -->
+  <td align="center">
+    <!-- Make this image file itself circular -->
+    <img src="taralign.jpg" alt="Project 2" width="160" height="160" />
+    <br />
+    <samp>Project_Module_02</samp>
+  </td>
+</tr>
+  </table>
+</p>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
