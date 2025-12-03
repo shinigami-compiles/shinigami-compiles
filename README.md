@@ -67,7 +67,7 @@ me = Harshal_Jadhav()
 <p align="center">
   <img src="introfy.jpg" width="250" alt="Project 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="taralign" width="250" alt="Project 2" />
+  <img src="taralign.jpg" width="250" alt="Project 2" />
 </p>
 
 
