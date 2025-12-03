@@ -80,7 +80,7 @@ me = Harshal_Jadhav()
     box-shadow: 0 0 20px rgba(70,130,180,0.7);
   ">
     <!-- Replace with your Project 1 Cover -->
-    <img src="project1_cover.jpg" alt="Project 1"
+    <img src="s_1.png" alt="Project 1"
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
@@ -94,7 +94,7 @@ me = Harshal_Jadhav()
     box-shadow: 0 0 20px rgba(70,130,180,0.7);
   ">
     <!-- Replace with your Project 2 Cover -->
-    <img src="project2_cover.jpg" alt="Project 2"
+    <img src="ss_1.png" alt="Project 2"
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
