@@ -68,11 +68,11 @@ me = Harshal_Jadhav()
   <table>
     <tr>
       <td align="center">
-        <img src="project1.png" alt="Project 1" width="230" />
+        <img src="introfy.jpg" alt="Project 1" width="230" />
       </td>
 
   <td align="center">
-    <img src="project2.png" alt="Project 2" width="230" />
+    <img src="taralign.jpg" alt="Project 2" width="230" />
   </td>
 </tr>
 </table>
