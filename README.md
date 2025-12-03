@@ -60,48 +60,6 @@ me = Harshal_Jadhav()
 
 <br/>
 
-<!-- ===================== PROJECT SHOWCASE ===================== -->
-
-<h3 align="center">
-  <samp>&gt; Deploying_Project_Modules...</samp>
-</h3>
-
-<div align="center" style="margin-top: 20px;">
-  
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-
-  <!-- Project Circle 1 -->
-  <div style="
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 3px solid #4682B4;
-    box-shadow: 0 0 20px rgba(70,130,180,0.7);
-  ">
-    <!-- Replace with your Project 1 Cover -->
-    <img src="s_1.png" alt="Project 1"
-         style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-
-  <!-- Project Circle 2 -->
-  <div style="
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 3px solid #4682B4;
-    box-shadow: 0 0 20px rgba(70,130,180,0.7);
-  ">
-    <!-- Replace with your Project 2 Cover -->
-    <img src="ss_1.png" alt="Project 2"
-         style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-
-  </div>
-
-</div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
