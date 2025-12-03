@@ -65,18 +65,11 @@ me = Harshal_Jadhav()
 </h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="introfy.jpg" alt="Project 1" width="230" />
-      </td>
-
-  <td align="center">
-    <img src="taralign.jpg" alt="Project 2" width="230" />
-  </td>
-</tr>
-</table>
+  <img src="introfy.jpg" width="250" alt="Project 1" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="taralign" width="250" alt="Project 2" />
 </p>
+
 
 
 
