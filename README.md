@@ -69,35 +69,35 @@ me = Harshal_Jadhav()
 <div align="center">
   <div style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:wrap; margin-top:20px;">
 
-    <div style="display:flex; flex-direction:column; align-items:center;">
-      <div style="
-        width:170px;
-        height:170px;
-        border-radius:50%;
-        overflow:hidden;
-        border:2px solid #4682B4;
-        box-shadow:0 0 25px rgba(70,130,180,0.8);
-      ">
-        <!-- Replace src with your project 1 cover image -->
-        <img src="s_1.png" alt="Project 1 Cover"
-             style="width:100%; height:100%; object-fit:cover;">
-      </div>
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <div style="
+      width:170px;
+      height:170px;
+      border-radius:50%;
+      overflow:hidden;
+      border:2px solid #4682B4;
+      box-shadow:0 0 25px rgba(70,130,180,0.8);
+    ">
+      <!-- Replace src with your project 1 cover image -->
+      <img src="s_1.png" alt="Project 1 Cover"
+           style="width:100%; height:100%; object-fit:cover;">
     </div>
+  </div>
 
-    <div style="display:flex; flex-direction:column; align-items:center;">
-      <div style="
-        width:170px;
-        height:170px;
-        border-radius:50%;
-        overflow:hidden;
-        border:2px solid #4682B4;
-        box-shadow:0 0 25px rgba(70,130,180,0.8);
-      ">
-        <!-- Replace src with your project 2 cover image -->
-        <img src="project_2_cover.png" alt="Project 2 Cover"
-             style="width:100%; height:100%; object-fit:cover;">
-      </div>
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <div style="
+      width:170px;
+      height:170px;
+      border-radius:50%;
+      overflow:hidden;
+      border:2px solid #4682B4;
+      box-shadow:0 0 25px rgba(70,130,180,0.8);
+    ">
+      <!-- Replace src with your project 2 cover image -->
+      <img src="ss_1.png" alt="Project 2 Cover"
+           style="width:100%; height:100%; object-fit:cover;">
     </div>
+  </div>
 
   </div>
 </div>
