@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682B4,100:ffffff&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=295D8A&animation=fadeIn&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682B4,100:ffffff&height=180&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=40&fontColor=295D8A&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Initializing+AI+%26+DS+Engineer...;Loading+Neural+Networks...;Executing+Deep+Learning+Protocols...;Welcome,+User." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Initializing+AI+%26+DS+Engineer...;Loading+Neural+Networks...;Executing+Deep+Learning+Protocols...;Welcome,+User." alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
@@ -14,17 +14,17 @@
 <pre align="left">
 <code class="language-python">
 class Harshal_Jadhav:
-    def __init__(self):
-        self.name = "Harshal Jadhav"
-        self.role = "AI & DS Engineer"
-        self.focus = ["Machine Learning", "Deep Learning", "Predictive Modeling"]
-        self.drive = "Infinite"
+    def __init__(self):
+        self.name = "Harshal Jadhav"
+        self.role = "AI & DS Engineer"
+        self.focus = ["Machine Learning", "Deep Learning", "Predictive Modeling"]
+        self.drive = "Infinite"
 
-    def current_status(self):
-        while self.drive:
-            self.learn("Data Strutures & Algorithm")
-            self.build("Scalable AI Systems")
-            self.optimize("Neural Architectures")
+    def current_status(self):
+        while self.drive:
+            self.learn("Data Strutures & Algorithm")
+            self.build("Scalable AI Systems")
+            self.optimize("Neural Architectures")
 
 # Executing core modules...
 me = Harshal_Jadhav()
@@ -33,35 +33,79 @@ me = Harshal_Jadhav()
 </div>
 
 <h3 align="center">
-    <samp>&gt; Accessing_Tech_Stack...</samp>
+    <samp>&gt; Accessing_Tech_Stack...</samp>
 </h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br/>
 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- ===================== PROJECT MODULES SECTION ===================== -->
+
+<h3 align="center">
+  <samp>&gt; Deploying_Project_Modules...</samp>
+</h3>
+
+<div align="center">
+  <div style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:wrap; margin-top:20px;">
+
+    <div style="display:flex; flex-direction:column; align-items:center;">
+      <div style="
+        width:170px;
+        height:170px;
+        border-radius:50%;
+        overflow:hidden;
+        border:2px solid #4682B4;
+        box-shadow:0 0 25px rgba(70,130,180,0.8);
+      ">
+        <!-- Replace src with your project 1 cover image -->
+        <img src="s_1.png" alt="Project 1 Cover"
+             style="width:100%; height:100%; object-fit:cover;">
+      </div>
+    </div>
+
+    <div style="display:flex; flex-direction:column; align-items:center;">
+      <div style="
+        width:170px;
+        height:170px;
+        border-radius:50%;
+        overflow:hidden;
+        border:2px solid #4682B4;
+        box-shadow:0 0 25px rgba(70,130,180,0.8);
+      ">
+        <!-- Replace src with your project 2 cover image -->
+        <img src="project_2_cover.png" alt="Project 2 Cover"
+             style="width:100%; height:100%; object-fit:cover;">
+      </div>
+    </div>
+
+  </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
 </div>
 
 <div align="center">
@@ -75,5 +119,5 @@ me = Harshal_Jadhav()
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer" width="100%" />
 </div>
