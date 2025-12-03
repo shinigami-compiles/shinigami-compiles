@@ -67,23 +67,15 @@ me = Harshal_Jadhav()
 <p align="center">
   <table>
     <tr>
-      <!-- Project 1 -->
       <td align="center">
-        <!-- Make this image file itself circular -->
-        <img src="introfy.jpg" alt="Project 1" width="160" height="160" />
-        <br />
-        <samp>Project_Module_01</samp>
+        <img src="project1.png" alt="Project 1" width="230" />
       </td>
 
-  <!-- Project 2 -->
   <td align="center">
-    <!-- Make this image file itself circular -->
-    <img src="taralign.jpg" alt="Project 2" width="160" height="160" />
-    <br />
-    <samp>Project_Module_02</samp>
+    <img src="project2.png" alt="Project 2" width="230" />
   </td>
 </tr>
-  </table>
+</table>
 </p>
 
 
