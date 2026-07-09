@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=System.Initiate(Harshal_Jadhav)&fontSize=45&fontColor=56CCF2&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
+<p align="center">
+  <img src="hj.gif" width="100%">
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
