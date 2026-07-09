@@ -67,20 +67,6 @@ me = Harshal_Jadhav()
 
 <br/>
 
-<h3 align="center">
-  <samp>&gt; Deploying_Project_Modules...</samp>
-</h3>
-
-<p align="center">
-  <img src="Introfy.png" width="250" alt="Project 1" style="border-radius: 8px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Taralign.png" width="250" alt="Project 2" style="border-radius: 8px;" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Neural Network Animation" />
-</div>
-
 <br />
 
 <h3 align="center">
